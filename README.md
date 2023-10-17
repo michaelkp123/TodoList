@@ -3,7 +3,7 @@
 
 [![Open in Visual Studio Code]
 
-This is a basic web app setup that integrates razor with C#.
+This is a basic web app setup that integrates Blazor with C#.
 
 ### Compiles and hot-reloads for development
 ```
